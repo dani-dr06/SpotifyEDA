@@ -52,5 +52,5 @@ The dataset comes from Kaggle user Mark Koverha and can be found in the link abo
 
 - The 10 most popular songs in the dataset in order were: Sweater Weather by The Neighbourhood, Another Love by Tom Odell, Without Me by Eminem, The Real Slim Shady by Eminem, Lovely by Billie Eilish with Khalid, Wait a Minute! by WILLOW, Circles by Post Malone, The Nights by Avicii, Perfect by Ed Sheeran, Locked Out of Heaven by Bruno Mars.
 
-## Bonus: Linear Regression
-Although I did not plan on doing so initially, I decided to also practice some of my machine learning skills and predict song popularity based on the attributes in the dataset using linear regression. 
+## Linear Regression
+I decided to also practice some of my machine learning skills and try to build a model to predict song popularity based on the attributes in the dataset using linear regression. 
